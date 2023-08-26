@@ -20,9 +20,9 @@ The model is trained on the [Default of Credit Card Clients Dataset](https://arc
    pip install -r requirements.txt
    ```
 
-2. Run the `credit_score_model.py` script to launch the Gradio interface.
+2. Run the `FinSearch.py` script to launch the Gradio interface.
    ```
-   python credit_score_model.py
+   python FinSearch.py
    ```
 
 3. Input the required details in the interface, such as gender, education, marital status, age, credit limit, bill amount, and payment amount.
